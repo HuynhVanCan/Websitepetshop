@@ -44,4 +44,5 @@ Dự án được phát triển bởi [Huỳnh Văn Can-1911271073](https://gith
 
 ## Giấy phép
 
-Dự án này được phân phối dưới giấy phép [MIT License](https://opensource.org/licenses/MIT).
+Dự án này được phân phối dưới giấy phép gcn4
+
