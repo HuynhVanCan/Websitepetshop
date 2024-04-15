@@ -37,7 +37,10 @@ Mọi đóng góp vào dự án đều được hoan nghênh! Hãy mở một is
 
 ## Tác giả
 
-Dự án được phát triển bởi [your-name](https://github.com/your-username).
+Dự án được phát triển bởi [Huỳnh Văn Can-1911271073](https://github.com/HuynhVanCan).
+                          Nguyễn Công Huynh-2011061573
+                          Hồ Quang Đạt-2011063619(https://github.com/Khai712)
+                          Trần Duy Khải-2011062923(https://github.com/Khai712)
 
 ## Giấy phép
 
